@@ -29,7 +29,7 @@ module.exports = defineConfig({
     video: "on",
     actionTimeout: 35000,
     navigationTimeout: 35000,
-    baseURL: "https://ecommerce-playground.lambdatest.io/",
+    baseURL: "https://ecommerce-playground.lambdatest.io",
     /* Base URL to use in actions like `await page.goto('/')`. */
     // baseURL: 'http://127.0.0.1:3000',
 
